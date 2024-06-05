@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definiranje elemenata za stripove -->
+    <xs:element name="spiderman">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="stripovi">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="strip" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="naslov" type="xs:string"/>
+                                        <xs:element name="godina" type="xs:int"/>
+                                        <xs:element name="autor" type="xs:string"/>
+                                        <xs:element name="izdavac" type="xs:string"/>
+                                        <xs:element name="opis" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="likovi">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="lik" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="ime" type="xs:string"/>
+                                        <xs:element name="alias" type="xs:string"/>
+                                        <xs:element name="opis" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="dogadaji">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="dogadaj" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="naziv" type="xs:string"/>
+                                        <xs:element name="godina" type="xs:int"/>
+                                        <xs:element name="opis" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
