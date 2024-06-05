@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spiderman>
+    <stripovi>
+        <strip>
+            <naslov>Spider-Verse</naslov>
+            <godina>2014</godina>
+            <autor>Dan Slott</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Veliki crossover događaj koji uključuje sve verzije Spider-Mana iz različitih svemira.</opis>
+        </strip>
+        <strip>
+            <naslov>Goblin Nation</naslov>
+            <godina>2014</godina>
+            <autor>Dan Slott</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Završni događaj Superior Spider-Man serije u kojem se Peter Parker vraća.</opis>
+        </strip>
+        <strip>
+            <naslov>Ultimate Venom</naslov>
+            <godina>2003</godina>
+            <autor>Brian Michael Bendis</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Venomov prvi nastup u Ultimate Spider-Man univerzumu.</opis>
+        </strip>
+        <strip>
+            <naslov>Kraven’s Last Hunt</naslov>
+            <godina>1987</godina>
+            <autor>J.M. DeMatteis</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Jedna od najpoznatijih i najtamnijih priča o Spider-Manu, fokusirana na Kravena the Huntera.</opis>
+        </strip>
+        <strip>
+            <naslov>The Night Gwen Stacy Died</naslov>
+            <godina>1973</godina>
+            <autor>Gerry Conway</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Tragična priča o smrti Gwen Stacy.</opis>
+        </strip>
+        <strip>
+            <naslov>Spider-Man: Blue</naslov>
+            <godina>2002</godina>
+            <autor>Jeph Loeb</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Priča o Peteru Parkeru i njegovim sjećanjima na Gwen Stacy.</opis>
+        </strip>
+        <strip>
+            <naslov>The Clone Saga</naslov>
+            <godina>1994</godina>
+            <autor>Terry Kavanagh</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Kompleksna priča o klonovima Spider-Mana.</opis>
+        </strip>
+        <strip>
+            <naslov>Maximum Carnage</naslov>
+            <godina>1993</godina>
+            <autor>Tom DeFalco</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Veliki crossover događaj u kojem Spider-Man i Venom udružuju snage protiv Carnagea.</opis>
+        </strip>
+        <strip>
+            <naslov>One More Day</naslov>
+            <godina>2007</godina>
+            <autor>J. Michael Straczynski</autor>
+            <izdavac>Marvel Comics</izdavac>
+            <opis>Kontroverzna priča u kojoj Spider-Man sklapa dogovor s Mephistom kako bi spasio tetu May.</opis>
+        </strip>
+    </stripovi>
+    <likovi>
+        <lik>
+            <ime>Peter Parker</ime>
+            <alias>Spider-Man</alias>
+            <opis>Glavni protagonist, mladi superheroj.Kojeg današnji pisci absolutno mrze i žele mu sve najgore</opis>
+        </lik>
+        <lik>
+            <ime>Mary Jane Watson</ime>
+            <alias>MJ</alias>
+            <opis>Peterova ljubav i prijateljica.U novijim Ultimate stripovima GOAT-ed,ali u Raimi-evim filmovima noćna mora</opis>
+        </lik>
+        <lik>
+            <ime>Green Goblin</ime>
+            <alias>Norman Osborn</alias>
+            <opis>Jedan od najpoznatijih Spider-Manovih neprijatelja.</opis>
+        </lik>
+        <lik>
+            <ime>Gwen Stacy</ime>
+            <alias>Gwen</alias>
+            <opis>Peterova prva velika ljubav čija smrt ga duboko pogađa.Emma Stone ubila u ulozi</opis>
+        </lik>
+        <lik>
+            <ime>Venom</ime>
+            <alias>Eddie Brock</alias>
+            <opis>Jedan od najopasnijih Spider-Manovih neprijatelja, nastao spajanjem Eddieja Brocka i vanzemaljskog simbiota. Jako dobri </opis>
+        </lik>
+        <lik>
+            <ime>Carnage</ime>
+            <alias>Cletus Kasady</alias>
+            <opis>Još opasniji neprijatelj od Venoma, spoj Cletusa Kasadyja i simbiota. Dijete od Venoma</opis>
+        </lik>
+    </likovi>
+    <dogadaji>
+        <dogadaj>
+            <naziv>Smrt Gwen Stacy</naziv>
+            <godina>1973</godina>
+            <opis>Jedan od najtragičnijih događaja u Spider-Manovom životu.</opis>
+        </dogadaj>
+        <dogadaj>
+            <naziv>Tajni ratovi</naziv>
+            <godina>1984</godina>
+            <opis>Spider-Man dobiva svoj crni kostim koji kasnije postaje Venom.</opis>
+        </dogadaj>
+        <dogadaj>
+            <naziv>Paul Rabin</naziv>
+            <godina>2022</godina>
+            <opis>Predstavljanje najgoreg lika u spiderman stripovima od njegovog pocetka</opis>
+        </dogadaj>
+    </dogadaji>
+</spiderman>
